@@ -3,7 +3,17 @@ entries:
   echo-server:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-07-14T12:05:22.400554212+03:00"
+    created: "2021-07-14T12:43:19.271709952+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 542e0ddb61a2172f6bf7531ee9b1948efc27d4f6dc6a631d5b0dcb4df7ae996a
+    name: echo-server
+    type: application
+    urls:
+    - https://emrahkk.github.io/helm-charts/echo-server-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-07-14T12:43:19.271278186+03:00"
     description: A Helm chart for Kubernetes
     digest: 45737e2174393af0489b71815bad6dd09c834725a736dfa7cd0cec01be1c9a11
     name: echo-server
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://emrahkk.github.io/helm-charts/echo-server-0.1.0.tgz
     version: 0.1.0
-generated: "2021-07-14T12:05:22.399779799+03:00"
+generated: "2021-07-14T12:43:19.270724685+03:00"
